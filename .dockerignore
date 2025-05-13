@@ -1,0 +1,10 @@
+eslint.config.mjs
+.gitignore
+.gitlab-ci.yml
+.prettierrc
+docker-compose.yml
+Dockerfile
+
+node_modules
+
+
